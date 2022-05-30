@@ -11,11 +11,13 @@ Avant de rentrer dans les détails du projet, petit point sur du pourquoi du com
 
 Un soir, j'ai voulu me faire un beau index pour mon serveur Wamp sur mon PC pour mieux présenter mes projets, à moi même, j'avoue 😅. Et puis j'ai eu l'idée d'ajouter plusieurs choses dessus, une liste des appareils sur mon réseau, puis de gérer mes marques-pages et ensuite... C'est parti en couille 😂
 
+
 ## 🌌 Front-end
 ### 🧰 Langage & Framework
 ### 👨‍🦱 Utilisateur
 ### 👨‍💻 Admin
 ### 👀 Panels
+ 
  
 ##  🔌 Back-end
 ### 🧰 Langage & Framework
@@ -23,5 +25,6 @@ Pour le Back-end j'ai choisi d'utiliser du Javascript (Encore 😬) avec un serv
 ### ✅Test
 ### 📚 Swagger
 ### 🐬 BD
+
 
 ## 🚀 Roadmap
