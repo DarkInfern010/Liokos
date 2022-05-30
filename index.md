@@ -1,36 +1,27 @@
+
 # BoHome
 
-Bienvenue sur la page de description de mon projet d'index personnalisé. BoHome, fusion de Boom et de Home
-Vous y retrouverez des screenshots, des explication, une roadmap en soit l'avancé du projet.
+Bienvenue sur la page de description de mon projet d'index personnalisé. BoHome, fusion de Boom et de Home.
 
-### Markdown
+Vous y retrouverez des screenshots, des explications, une roadmap, en soit l'avancé du projet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## ❓ Pourquoi?
 
-```markdown
-Syntax highlighted code block
+Avant de rentrer dans les détails du projet, petit point sur du pourquoi du comment ce projet est né.
 
-# Header 1
-## Header 2
-### Header 3
+Un soir, j'ai voulu me faire un beau index pour mon serveur Wamp sur mon PC pour mieux présenter mes projets, à moi même, j'avoue 😅. Et puis j'ai eu l'idée d'ajouter plusieurs choses dessus, une liste des appareils sur mon réseau, puis de gérer mes marques-pages et ensuite... C'est parti en couille 😂
 
-- Bulleted
-- List
+## 🌌 Front-end
+### 🧰 Langage & Framework
+### 👨‍🦱 Utilisateur
+### 👨‍💻 Admin
+### 👀 Panels
+ 
+##  🔌 Back-end
+### 🧰 Langage & Framework
+Pour le Back-end j'ai choisi d'utiliser du Javascript (Encore 😬) avec un serveur NodeJS en utilisant le framework KoaJs. C'est un framework très léger, bon tellement léger que pour la moindre petites choses on doit installer un module à chaque fois, mais pour ce projet ce ne fut pas trop compliqué.
+### ✅Test
+### 📚 Swagger
+### 🐬 BD
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DarkInfern010/BoHome/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 🚀 Roadmap
