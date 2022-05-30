@@ -1,8 +1,7 @@
-## BoHome
+# BoHome
 
-Bienvenue sur mon site partagent l'avancée de mon projet d'index personnalisé. 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bienvenue sur la page de description de mon projet d'index personnalisé. BoHome, fusion de Boom et de Home
+Vous y retrouverez des screenshots, des explication, une roadmap en soit l'avancé du projet.
 
 ### Markdown
 
