@@ -1,3 +1,4 @@
+
   
 # BoHome
 
@@ -88,11 +89,22 @@ Le panneau Paramètre est une liste d'élement paramètrable dans l'application 
  
  
 ##  🔌 Back-end
+Le back-end servant l'application est une API REST permettant de faire le lien facilement entre le front-end et la base de données
 ### 🧰 Langage & Framework
-Pour le Back-end j'ai choisi d'utiliser du Javascript (Encore 😬) avec un serveur NodeJS en utilisant le framework KoaJs. C'est un framework très léger, bon tellement léger que pour la moindre petites choses on doit installer un module à chaque fois, mais pour ce projet ce ne fut pas trop compliqué.
-### ✅Test
-### 📚 Swagger
+Pour le Back-end j'ai choisi d'utiliser du Javascript (Encore 😬) avec un serveur NodeJS en utilisant le framework KoaJs. C'est un framework très léger, bon tellement léger que pour la moindre petites choses on doit installer un module à chaque fois, mais pour ce projet ce ne fut pas trop compliqué. Ce framework permet la création d'api. J'ai utilisé le module knex pour la connexion et la création de base de donnée.
 ### 🐬 BD
-
+Pour la création de la BD, en utilisant Knex on peux créer des migrations pour éditer les tables et des seeds pour la remplir. De plus, on peut créer des queries permettant d'intéragir avec la base de donnée, c'est une manière plus simple que d'écrire des requêtes SQL et d'éviter tout un tas de problème lier à l'écriture de requête maison. Ma base de données est une base MySQL, cependant il est possible de mettre en place une BD PostgreSQL ou autre.
+### ✅Test
+J'ai fais un ensemble de test unitaire durant l'écriture de mon API ainsi je peut savoir si une requête répond bien ou non selon ce qu'on lui envoie. L'écriture de ses tests on été fais avec jest, un module node.
+### 📚 Swagger
+Afin de m'y retrouver un peu plus dans cette jungle de route, j'ai mis en place une documentation fait avec Swagger. Cette documentation est la liste des routes de l'API avec leur paramètre si besoin. On peux également voir si une requête à besoin d'une authentification ou non.
 
 ## 🚀 Roadmap
+- **Arreter de rajouter des idées**
+- Terminer l'écriture des vues
+- **Arreter de rajouter des idées**
+- Vérification de la responsivité de l'application
+- **Arreter de rajouter des idées**
+- Vérification de la portabilité en PWA ou APK
+- Mettre en place les notifications push
+- Héberger l'application
