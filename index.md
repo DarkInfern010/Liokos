@@ -1,9 +1,9 @@
 
 
   
-# BoHome
+# Liokos
 
-Bienvenue sur la page de description de mon projet d'index personnalisé. BoHome, fusion de Boom et de Home.
+Bienvenue sur la page de description de mon projet d'index personnalisé. Liokos, maison en grec (Oikos) et L pour moi.
 
 Vous y retrouverez des screenshots, des explications, une roadmap, en soit l'avancé du projet.
 
