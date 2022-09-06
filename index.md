@@ -1,6 +1,3 @@
-
-
-  
 # Liokos
 
 Bienvenue sur la page de description de mon projet d'index personnalisé. Liokos, maison en grec (Oikos) et L pour moi.
@@ -11,13 +8,13 @@ Vous y retrouverez des screenshots, des explications, une roadmap, en soit l'ava
 
 Avant de rentrer dans les détails du projet, petit point sur du pourquoi du comment ce projet est né.
 
-Un soir, j'ai voulu me faire un beau index pour mon serveur Wamp sur mon PC pour mieux présenter mes projets, à moi même, j'avoue 😅. Et puis j'ai eu l'idée d'ajouter plusieurs choses dessus, une liste des appareils sur mon réseau, puis de gérer mes marques-pages et ensuite... C'est parti en couille 😂
+Un soir, j'ai voulu me faire un beau index pour mon serveur Wamp sur mon PC pour mieux présenter mes projets, à moi-même, j'avoue 😅. Et puis j'ai eu l'idée d'ajouter plusieurs choses dessus, une liste des appareils sur mon réseau, puis de gérer mes marques-pages et ensuite... C'est parti en couille 😂
 
-Donc dans la suite de cette présentation nous allons voir comment j'ai élaborer mon application d'un point de vue Front-end (Site Web) et d'un point de vue Back-end (API & BD)
+Donc, dans la suite de cette présentation nous allons voir comment j'ai élaboré mon application d'un point de vue Front-end (Site Web) et d'un point de vue Back-end (API & BD)
 
 
 ## 🌌 Front-end
-BoHome est actuellement un site web (non fini) et deviendra par la suite soit une PWA soit une application mobile.
+Liokos est actuellement un site web (non fini) et deviendra par la suite soit une PWA soit une application mobile.
 ### 🧰 Langage & Framework
 Pour la réalisation du Front j'ai utilisé le framework Quasar. Quasar est un fork de VueJS important d'autre choses très intéressantes. Ce framework est fais en JavaScript, lors de la conception de l'application le code se décompose en, au moins, deux parties. La vue qui sera notre code HTML (avec les attributs Vue) et le script qui sera du JavaScript, il est possible aussi d'utiliser du TypeScript si besoin.
 L'utilisation du framework Quasar n'impose en réalité pas beaucoup de chose, en tous cas rien de dictatorial. Au contraire, il est possible de tout configurer, même le style de certain élément peuvent être réécrit si besoin (**QUE SI NÉCESSAIRE**). 
